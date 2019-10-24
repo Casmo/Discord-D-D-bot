@@ -1,0 +1,11 @@
+{
+  "name": "D&D Bot",
+  "version": "1.0.0",
+  "description": "De D&D Bot",
+  "main": "bot.js",
+  "author": "Mathieu",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.2.1"
+  }
+}
