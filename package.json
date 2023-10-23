@@ -1,7 +1,7 @@
 {
-  "name": "D&D Bot",
+  "name": "Azolfbot",
   "version": "1.0.0",
-  "description": "De D&D Bot",
+  "description": "Azolfbot",
   "main": "bot.js",
   "author": "Mathieu",
   "dependencies": {
